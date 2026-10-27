@@ -142,6 +142,7 @@ Dokumen ini memetakan struktur kode riil, crate, dan hirarki direktori di seluru
 │
 ├── research/dec/                     — 76 Architecture Decision Records (DEC-001 s/d DEC-056)
 ├── docs/                             — Documentation (bisnis.md, roadmap.md, X402_INTEGRATION_STRATEGY.md, analisis/)
+├── WHITEPAPER.md                     — Living Technical Specification & Architecture Whitepaper
 └── todo.md                           — Master active checklist (pending tasks only)
 ```
 
